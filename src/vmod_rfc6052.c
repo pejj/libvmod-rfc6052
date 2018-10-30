@@ -3,9 +3,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "vcl.h"
-#include "vrt.h"
 #include "cache/cache.h"
+#include "vcl.h"
 
 #include "vcc_if.h"
 
